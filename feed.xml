@@ -3,15 +3,14 @@
   <channel>
     <title>Warhammer Community (Unofficial Feed)</title>
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
-    <description>Unofficial RSS feed for Warhammer Community, built from the site's sitemap since the official listing page requires JavaScript.</description>
+    <description>Unofficial RSS feed for Warhammer Community, built from the site's sitemap since the official listing page requires JavaScript. Ordered by when this feed first noticed each article, since the site's own sitemap timestamps aren't reliable.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:19:42 +0000</lastBuildDate>
     <item>
       <title>Pages from the Black Books – The Scouring of the Nostramo Sector</title>
       <link>https://www.warhammer-community.com/en-gb/articles/b3jpf8hp/pages-from-the-black-books-the-scouring-of-the-nostramo-sector/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/b3jpf8hp/pages-from-the-black-books-the-scouring-of-the-nostramo-sector/</guid>
       <pubDate>Thu, 17 Sep 2026 11:55:03 +0000</pubDate>
-      <lastmod>2026-09-17T11:55:03+00:00</lastmod>
       <description>Join us as we head to the north-eastern fringes to take on the Night Lords.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/thh_blackbookslore35-sep17-1-feature-kmmqexc7yg.jpg" type="image/jpeg"/>
     </item>
@@ -20,7 +19,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/6okloq9i/miniatures-showcase-cargo-8-conversions/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/6okloq9i/miniatures-showcase-cargo-8-conversions/</guid>
       <pubDate>Thu, 17 Sep 2026 10:55:03 +0000</pubDate>
-      <lastmod>2026-09-17T10:55:03+00:00</lastmod>
       <description>Get ready to head out on the Ash Road with these incredible Ridgehaulers.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/nec_ridgehauler-sep17-1-feature-frnsib3xps.jpg" type="image/jpeg"/>
     </item>
@@ -29,7 +27,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/xciydqwa/space-marines-detachments-space-wolves-black-templars-and-deathwatch/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xciydqwa/space-marines-detachments-space-wolves-black-templars-and-deathwatch/</guid>
       <pubDate>Wed, 16 Sep 2026 12:55:03 +0000</pubDate>
-      <lastmod>2026-09-16T12:55:03+00:00</lastmod>
       <description>Updated detachments for non-compliant Chapters are coming.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_swbtdwdetach-sep16-1-feature-pcjzjo804x.jpg" type="image/jpeg"/>
     </item>
@@ -38,7 +35,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/xsem3n2q/global-debut-of-codex-space-marines-on-warhammer-tv/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xsem3n2q/global-debut-of-codex-space-marines-on-warhammer-tv/</guid>
       <pubDate>Wed, 16 Sep 2026 11:55:05 +0000</pubDate>
-      <lastmod>2026-09-16T11:55:05+00:00</lastmod>
       <description>The Adeptus Astartes star in both Battle Report and Painting Desk.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/whplus_sep15-1-feature-d8kifzwdyd.jpg" type="image/jpeg"/>
     </item>
@@ -47,7 +43,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/agovgmhm/neave-blacktalon-stars-in-new-black-library-novel/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/agovgmhm/neave-blacktalon-stars-in-new-black-library-novel/</guid>
       <pubDate>Wed, 16 Sep 2026 10:55:03 +0000</pubDate>
-      <lastmod>2026-09-16T10:55:03+00:00</lastmod>
       <description>The legendary assassin faces her toughest challenge yet in the city of Greybank.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/bl_blacktalonreveal-sep16-1-feature-rqbrggkxxf.jpg" type="image/jpeg"/>
     </item>
@@ -56,7 +51,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/2zkr3awe/newsletter-supply-drop/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2zkr3awe/newsletter-supply-drop/</guid>
       <pubDate>Wed, 16 Sep 2026 09:42:17 +0000</pubDate>
-      <lastmod>2026-09-16T09:42:17+00:00</lastmod>
       <description>Welcome to the Warhammer newsletter hub!</description>
       <enclosure url="https://assets.warhammer-community.com/feature_generic2024-(1).jpg" type="image/jpeg"/>
     </item>
@@ -65,7 +59,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/voakmnny/space-marines-detachments-blood-angels-and-dark-angels/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/voakmnny/space-marines-detachments-blood-angels-and-dark-angels/</guid>
       <pubDate>Tue, 15 Sep 2026 12:55:03 +0000</pubDate>
-      <lastmod>2026-09-15T12:55:03+00:00</lastmod>
       <description>Updated detachments for non-compliant Chapters are on the way.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_badadetach-sep15-1-feature-k72qsojy2y.jpg" type="image/jpeg"/>
     </item>
@@ -74,7 +67,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-15th-of-september/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-15th-of-september/</guid>
       <pubDate>Tue, 15 Sep 2026 10:55:06 +0000</pubDate>
-      <lastmod>2026-09-15T10:55:06+00:00</lastmod>
       <description>What could it be?</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/rumourengine-sep15-1-feature-mz1xiyiohj.jpg" type="image/jpeg"/>
     </item>
@@ -83,7 +75,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/pdrjlpou/the-big-autumn-warhammer-preview-tune-in-on-friday/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/pdrjlpou/the-big-autumn-warhammer-preview-tune-in-on-friday/</guid>
       <pubDate>Tue, 15 Sep 2026 07:58:09 +0000</pubDate>
-      <lastmod>2026-09-15T07:58:09+00:00</lastmod>
       <description>The next big Preview show is coming this week.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/autumnpreview_incoming-sep14-1-feature-jxmakvvvfi.jpg" type="image/jpeg"/>
     </item>
@@ -92,7 +83,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/paxsnmde/first-look-space-marines-datasheets/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/paxsnmde/first-look-space-marines-datasheets/</guid>
       <pubDate>Mon, 14 Sep 2026 13:27:52 +0000</pubDate>
-      <lastmod>2026-09-14T13:27:52+00:00</lastmod>
       <description>Sternguard Veterans have every gun in new datasheet reveals from Codex: Space Marines.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_smdatasheets-sep14-1-feature-m1jfgrn0dg.jpg" type="image/jpeg"/>
     </item>
@@ -101,7 +91,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/c4icjvyy/sunday-preview-space-marines-drop-in-from-orbit/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/c4icjvyy/sunday-preview-space-marines-drop-in-from-orbit/</guid>
       <pubDate>Sun, 13 Sep 2026 16:55:03 +0000</pubDate>
-      <lastmod>2026-09-13T16:55:03+00:00</lastmod>
       <description>Check out what’s coming up next week.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/sundaypreview-sep13-1-feature-seccrq0xmi.jpg" type="image/jpeg"/>
     </item>
@@ -110,7 +99,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/2lm28g6g/saturday-pre-orders-sons-of-behemat-stomp-the-mortal-realms/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2lm28g6g/saturday-pre-orders-sons-of-behemat-stomp-the-mortal-realms/</guid>
       <pubDate>Sat, 12 Sep 2026 16:55:05 +0000</pubDate>
-      <lastmod>2026-09-12T16:55:05+00:00</lastmod>
       <description>Gargantuan pre-orders for Warhammer Age of Sigmar, and a new boxed set.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/preorders-sep12-1-feature-peftfewqh6.jpg" type="image/jpeg"/>
     </item>
@@ -119,7 +107,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/tko2i6jm/warhammer-art-through-the-years-sons-of-behemat/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/tko2i6jm/warhammer-art-through-the-years-sons-of-behemat/</guid>
       <pubDate>Fri, 11 Sep 2026 13:55:03 +0000</pubDate>
-      <lastmod>2026-09-11T13:55:03+00:00</lastmod>
       <description>Check out some gargantuan artwork from around the Mortal Realms.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/whart_48-sept11-1-feature-dpltczvtts.jpg" type="image/jpeg"/>
     </item>
@@ -128,7 +115,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/gkr7s1u7/aos-coach-on-the-new-sons-of-behemat/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/gkr7s1u7/aos-coach-on-the-new-sons-of-behemat/</guid>
       <pubDate>Fri, 11 Sep 2026 12:55:03 +0000</pubDate>
-      <lastmod>2026-09-11T12:55:03+00:00</lastmod>
       <description>Get some army building ideas from a top Warhammer Age of Sigmar player.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobinfl-sep11-1-feature-lurdlpa0zq.jpg" type="image/jpeg"/>
     </item>
@@ -137,7 +123,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/zcobdkzh/your-first-look-at-15-new-space-marine-detachments/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/zcobdkzh/your-first-look-at-15-new-space-marine-detachments/</guid>
       <pubDate>Fri, 11 Sep 2026 11:55:04 +0000</pubDate>
-      <lastmod>2026-09-11T11:55:04+00:00</lastmod>
       <description>Build a better strike force with Codex: Space Marines.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/40k_smdetrules-sep11-1-feature-kclnjprwc6.jpg" type="image/jpeg"/>
     </item>
@@ -146,7 +131,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/xhj5rsbp/chronicles-of-ruin-king-of-the-bigs/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xhj5rsbp/chronicles-of-ruin-king-of-the-bigs/</guid>
       <pubDate>Fri, 11 Sep 2026 10:55:04 +0000</pubDate>
-      <lastmod>2026-09-11T10:55:04+00:00</lastmod>
       <description>Enjoy free Warhammer Age of Sigmar fiction.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_sobfiction-sep11-1-feature-4apjlfx9zw.jpg" type="image/jpeg"/>
     </item>
@@ -155,7 +139,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/ifgezlgu/space-marines-rules-first-look/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ifgezlgu/space-marines-rules-first-look/</guid>
       <pubDate>Thu, 10 Sep 2026 14:43:57 +0000</pubDate>
-      <lastmod>2026-09-10T14:43:57+00:00</lastmod>
       <description>Oath of Moment is gone from the new Codex – see what’s next.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/40k_smarmyrules-sep10-1-feature-b39lzh2sxk.jpg" type="image/jpeg"/>
     </item>
@@ -164,7 +147,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/yiqybtvc/see-how-brawlers-of-behemat-works/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/yiqybtvc/see-how-brawlers-of-behemat-works/</guid>
       <pubDate>Thu, 10 Sep 2026 12:55:03 +0000</pubDate>
-      <lastmod>2026-09-10T12:55:03+00:00</lastmod>
       <description>It’s Mega-Gargant vs Mega-Gargant in the new boxed set.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/aos_bobrules-sep10-1-feature-vbhoqrszwz.jpg" type="image/jpeg"/>
     </item>
@@ -173,7 +155,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/mm7rd0ir/collect-a-host-of-spearheads-with-new-warhammer-age-of-sigmar-magazine/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/mm7rd0ir/collect-a-host-of-spearheads-with-new-warhammer-age-of-sigmar-magazine/</guid>
       <pubDate>Thu, 10 Sep 2026 12:17:10 +0000</pubDate>
-      <lastmod>2026-09-10T12:17:10+00:00</lastmod>
       <description>A new subscription magazine is available now in the UK from our partners at Hachette.</description>
       <enclosure url="https://assets.warhammer-community.com/aos_spearheadmag-mar13-1-feature-co3cpb5lxa.jpg" type="image/jpeg"/>
     </item>
@@ -182,7 +163,6 @@
       <link>https://www.warhammer-community.com/en-gb/articles/xtizwhko/pages-from-the-black-books-eye-of-the-storm/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xtizwhko/pages-from-the-black-books-eye-of-the-storm/</guid>
       <pubDate>Thu, 10 Sep 2026 10:55:03 +0000</pubDate>
-      <lastmod>2026-09-10T10:55:03+00:00</lastmod>
       <description>The Blackshields of the Dark Brotherhood go to war.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/thh_blackbookslore34-sep10-1-feature-mc4xxqi0cn.jpg" type="image/jpeg"/>
     </item>
