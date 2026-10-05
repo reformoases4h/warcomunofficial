@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's sitemap since the official listing page requires JavaScript. Ordered by when this feed first noticed each article, since the site's own sitemap timestamps aren't reliable.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:05:56 +0000</lastBuildDate>
+    <item>
+      <title>Warhammer Day miniature revealed</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/bimnji3r/warhammer-day-miniature-revealed/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/bimnji3r/warhammer-day-miniature-revealed/</guid>
+      <pubDate>Mon, 05 Oct 2026 15:05:56 +0000</pubDate>
+      <description>Fulfil your godsworn oath with a new Darkoath Warqueen.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/2-share-jnpxvhe6bh.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Only in Death: 40,000 Ways to Die – New Animation</title>
       <link>https://www.warhammer-community.com/en-gb/articles/coumzkqv/only-in-death-40000-ways-to-die-new-animation/</link>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
       <description>A top miniatures painter talks about the new paint range.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_aleksandracvetanovski-sep23-1-feature-glwtf6oiyl.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Golden Demon winner Kentaro Ikeda on Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/waxcyb2g/golden-demon-winner-kentaro-ikeda-on-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/waxcyb2g/golden-demon-winner-kentaro-ikeda-on-warhammer-tone-pro/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
-      <description>A top miniatures painter talks about the new paint range.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_kentaroikeda-oct01-2-share-i8bz6fwhaz.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
