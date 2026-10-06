@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's sitemap since the official listing page requires JavaScript. Ordered by when this feed first noticed each article, since the site's own sitemap timestamps aren't reliable.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:03:39 +0000</lastBuildDate>
+    <item>
+      <title>Multiple Slayer Sword winner Angelo Di Chello on Warhammer Tone Pro</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/i8ghj7vl/multiple-slayer-sword-winner-angelo-di-chello-on-warhammer-tone-pro/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/i8ghj7vl/multiple-slayer-sword-winner-angelo-di-chello-on-warhammer-tone-pro/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:03:37 +0000</pubDate>
+      <description>A top miniatures painter talks about the new paint range.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/paintinterview_angelodichello-oct05-2-share-wziklap03e.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>‘Eavy Metal takes on red and orange Warhammer Tone Pro paints</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/no9xzqlv/eavy-metal-takes-on-red-and-orange-warhammer-tone-pro-paints/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/no9xzqlv/eavy-metal-takes-on-red-and-orange-warhammer-tone-pro-paints/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:03:37 +0000</pubDate>
+      <description>See more miniatures painted with the new paint range and learn their recipes.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/colourday_red-oct05-2-share-jun7ydbfet.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Warhammer Day miniature revealed</title>
       <link>https://www.warhammer-community.com/en-gb/articles/bimnji3r/warhammer-day-miniature-revealed/</link>
@@ -15,7 +31,7 @@
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/2-share-jnpxvhe6bh.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>Only in Death: 40,000 Ways to Die – New Animation</title>
+      <title>Only in Death: 40,000 Ways to Die</title>
       <link>https://www.warhammer-community.com/en-gb/articles/coumzkqv/only-in-death-40000-ways-to-die-new-animation/</link>
       <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/coumzkqv/only-in-death-40000-ways-to-die-new-animation/</guid>
       <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
@@ -149,22 +165,6 @@
       <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
       <description></description>
       <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1729677653-nq4wus6div.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Jon 'Ninjon' Ninas on starting Warhammer, how he paints, and the new Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/jmxyx6hv/jon-ninjon-ninas-on-starting-warhammer-how-he-paints-and-the-new-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jmxyx6hv/jon-ninjon-ninas-on-starting-warhammer-how-he-paints-and-the-new-warhammer-tone-pro/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
-      <description>Hugely popular painter Ninjon talks about the new paint range.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_jonninas-sep21-1-feature-mogoyng1ot.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>‘Underpainting’ technique teacher Aleksandra Cvetanovski on Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/yzrxjfuj/underpainting-technique-teacher-aleksandra-cvetanovski-on-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/yzrxjfuj/underpainting-technique-teacher-aleksandra-cvetanovski-on-warhammer-tone-pro/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
-      <description>A top miniatures painter talks about the new paint range.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_aleksandracvetanovski-sep23-1-feature-glwtf6oiyl.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
