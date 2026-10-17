@@ -3,9 +3,105 @@
   <channel>
     <title>Warhammer Community (Unofficial Feed)</title>
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
-    <description>Unofficial RSS feed for Warhammer Community, built from the site's sitemap since the official listing page requires JavaScript. Ordered by when this feed first noticed each article, since the site's own sitemap timestamps aren't reliable.</description>
+    <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:55:12 +0000</lastBuildDate>
+    <item>
+      <title>Arkanaut Episode 1 – Meet the Therodoson</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/o2tro9ry/arkanaut-episode-1-meet-the-therodoson/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/o2tro9ry/arkanaut-episode-1-meet-the-therodoson/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Watch the new Warhammer TV animation now.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/arkanaut_ep1-oct16-2-share-dfcuodxgiv.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Da Red Gobbo returns with a new festive miniature</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/8prrlmvd/da-red-gobbo-returns-with-a-new-festive-miniature/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/8prrlmvd/da-red-gobbo-returns-with-a-new-festive-miniature/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Plus, there’s a new novel starring the galaxy’s greatest revolutionary gretchin.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/redgobbo-oct16-2-share-y1uhpeeemp.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Chronicles of Ruin – The Weight of Remembrance</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/oqxhoin0/chronicles-of-ruin-the-weight-of-remembrance/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/oqxhoin0/chronicles-of-ruin-the-weight-of-remembrance/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Enjoy free fiction for the Khazalite Holds.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazfiction-oct16-2-share-5896nonitn.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Khazalite Holds Clanshields Kit Focus</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/p2zjmwkr/khazalite-holds-clanshields-kit-focus/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/p2zjmwkr/khazalite-holds-clanshields-kit-focus/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Get a closer look at the new duardin miniatures for Warhammer Age of Sigmar.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_clanshieldskitfocus-oct15-2-share-9iq6tfdfsf.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Grand Narrative 2026: Introducing the Lords of War</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/0jjz7tqg/grand-narrative-2026-introducing-the-lords-of-war/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/0jjz7tqg/grand-narrative-2026-introducing-the-lords-of-war/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Who will you fight for at the Grand Narrative?</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/grandnarrative2026_low-oct15-2-share-qa4khrcef4.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Mix your favourite duardin with Khazalite Holds Armies of Renown</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/djrn6cwq/mix-your-favourite-duardin-with-khazalite-holds-armies-of-renown/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/djrn6cwq/mix-your-favourite-duardin-with-khazalite-holds-armies-of-renown/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>New rules from the upcoming Warhammer Age of Sigmar battletome.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazror-oct16-2-share-lyepjibufj.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Revealed – The new Flight of the Eisenstein cover for The Horus Heresy Saga</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/aplo2bxs/revealed-the-new-flight-of-the-eisenstein-cover-for-the-horus-heresy-saga/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/aplo2bxs/revealed-the-new-flight-of-the-eisenstein-cover-for-the-horus-heresy-saga/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Nathaniel Garro’s harrowing journey to Terra gets stunning new artwork.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/2-igshare-tv5acfmcol.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Rumour Engine – 13th of October</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-13th-of-october/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-13th-of-october/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>What could it be?</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/rumourengine-oct13-2-share-jsbnqgybbl.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>More Khazalite Holds army rules revealed</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/orcmlbnz/more-khazalite-holds-army-rules-revealed/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/orcmlbnz/more-khazalite-holds-army-rules-revealed/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Learn how the duardin swear Ancestral Vows to receive divine power in their new battletome.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules2-oct13-2-share-coemwotwuw.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Khazalite Holds battle traits – Hand out some Grudges</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/sgbgmz25/khazalite-holds-battle-traits-hand-out-some-grudges/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/sgbgmz25/khazalite-holds-battle-traits-hand-out-some-grudges/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>New army rules from the upcoming Warhammer Age of Sigmar battletome.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules-oct12-2-share-d1kciwnrcr.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Peaks and Deeps – Take a Tour of a Khazalite Hold</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Explore the subterranean dwellings of Warhammer Age of Sigmar’s newest faction.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_khazlore-oct08-2-share-aih4ypplpr.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Liveries of the Legio Custodes during the Horus Heresy</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/e5pkuure/liveries-of-the-legio-custodes-during-the-horus-heresy/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/e5pkuure/liveries-of-the-legio-custodes-during-the-horus-heresy/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Discover the lore behind the different colours of the Custodian Guard.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_custodesheraldry-oct09-2-share-klzivsrctu.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Multiple Slayer Sword winner Angelo Di Chello on Warhammer Tone Pro</title>
       <link>https://www.warhammer-community.com/en-gb/articles/i8ghj7vl/multiple-slayer-sword-winner-angelo-di-chello-on-warhammer-tone-pro/</link>
@@ -69,102 +165,6 @@
       <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
       <description>Here are some collectively collated combos to get the most out of the Ten Thousand.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_custodescombos-oct01-2-share-zu98td4pdh.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Renowned miniatures and diorama painter Joshua ‘OmegonEdge’ Mallett on Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/7gcl3u7q/renowned-miniatures-and-diorama-painter-joshua-omegonedge-mallett-on-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/7gcl3u7q/renowned-miniatures-and-diorama-painter-joshua-omegonedge-mallett-on-warhammer-tone-pro/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>A top miniatures painter talks about the new paint range.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_joshmallet-sep29-2-share-6n0kdjpolx.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Golden Demon winner and Warhammer Open tutor Katarzyna Górska on Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/kmue40oe/golden-demon-winner-and-warhammer-open-tutor-katarzyna-gorska-on-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/kmue40oe/golden-demon-winner-and-warhammer-open-tutor-katarzyna-gorska-on-warhammer-tone-pro/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>A top miniatures painter talks about the new paint range.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_katarzynagorska-sep30-2-share-ri9fhwj6wh.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Arkanaut descends onto Warhammer TV this month</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/rrmmqkz7/release-date-revealed-for-the-next-animation-on-warhammer-tv/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/rrmmqkz7/release-date-revealed-for-the-next-animation-on-warhammer-tv/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Release date announced for new Kharadron Overlords series.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/arkanaut-sep30-2-share-jse1nyb0h9.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer 40,000 – Balance Update: Chaos, the Imperium and Xenos Fight Back</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/vzqu6tzw/warhammer-40000-balance-update-chaos-the-imperium-and-xenos-fight-back/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/vzqu6tzw/warhammer-40000-balance-update-chaos-the-imperium-and-xenos-fight-back/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Learn what yesterday’s big changes mean for the non-Space Marines factions.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_slatefollowup-sep01-2-share-hqow5sdukb.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Julien Kirszenbaum on painting monsters and Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/ar2fiibi/julien-kirszenbaum-on-painting-monsters-and-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ar2fiibi/julien-kirszenbaum-on-painting-monsters-and-warhammer-tone-pro/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>A top miniatures painter talks about the new paint range.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/paintinterview_julienk-oct02-2-share-rumhufeqay.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Saturday Pre-orders – Custodes battle across ten millennia</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/rdvqjezx/saturday-pre-orders-custodes-battle-across-ten-millennia/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/rdvqjezx/saturday-pre-orders-custodes-battle-across-ten-millennia/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>New miniatures and rules for Warhammer 40,000 and Warhammer: The Horus Heresy.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/preorders-oct03-2-share-af1botkhbb.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>The Art of Warhammer – Terra and the Custodes</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/pbev2srg/the-art-of-warhammer-terra-and-the-custodes/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/pbev2srg/the-art-of-warhammer-terra-and-the-custodes/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Behold the golden heart of Humanity and the bodyguards of the Emperor.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/whart_custodes-oct02-2-share-dvbocg5pks.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Space Marine 2 gets a massive anniversary update</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sm2_update-oct01-2-share-uez7pznbxa.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>New From Black Library – Whisperblade</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/otmn81lv/new-from-black-library-whisperblade/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/otmn81lv/new-from-black-library-whisperblade/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Head into Shyish on a vital quest in a new Warhammer Age of Sigmar novel.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bl_whisperblade-sep30-2-share-slphqlxud1.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Your first look at 13 new Adeptus Custodes detachments</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/joz5iubm/your-first-look-at-13-new-adeptus-custodes-detachments/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/joz5iubm/your-first-look-at-13-new-adeptus-custodes-detachments/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
-      <description>New rules revealed from the forthcoming Codex: Adeptus Custodes.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_custodesdetach-sep28-1-feature-zvll6krj1n.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Saturday Pre-orders – Classic Orks and Christmas gifts</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/gy3a26a3/saturday-pre-orders-classic-orks-and-christmas-gifts/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/gy3a26a3/saturday-pre-orders-classic-orks-and-christmas-gifts/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
-      <description>Add to your Waaagh! via our Made to Order service and get ready for the festive season.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/preorders-sep26-1-feature-k2nmjf6zuu.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer+ October 2026 – JoyToy Promotion: Terms &amp; Conditions - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/axukt2vt/warhammer-october-2026-joytoy-promotion-terms-conditions/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/axukt2vt/warhammer-october-2026-joytoy-promotion-terms-conditions/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:05:41 +0000</pubDate>
-      <description></description>
-      <enclosure url="https://assets.warhammer-community.com/feature_generic2024-1729677653-nq4wus6div.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
