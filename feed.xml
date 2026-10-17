@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:55:00 +0000</lastBuildDate>
+    <item>
+      <title>Saturday Pre-orders – Get your ready-painted terrain</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description>See what you can pre-order from today.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/preorders-oct17-2-share-qva7gpzahw.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Arkanaut Episode 1 – Meet the Therodoson</title>
       <link>https://www.warhammer-community.com/en-gb/articles/o2tro9ry/arkanaut-episode-1-meet-the-therodoson/</link>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
       <description>Watch the new faction trailer now.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/dow_marinestrailer-sep30-2-share-omay84znpl.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Adeptus Custodes: Top Detachment Tips</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/4a8o9tzw/adeptus-custodes-top-detachment-tips/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/4a8o9tzw/adeptus-custodes-top-detachment-tips/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Here are some collectively collated combos to get the most out of the Ten Thousand.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_custodescombos-oct01-2-share-zu98td4pdh.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
