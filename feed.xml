@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:57:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:42:28 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Preview – Tomb Kings rise again</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <description>See what’s coming up for pre-order next week.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/sundaypreview-oct18-2-share-rb2httfqez.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Saturday Pre-orders – Get your ready-painted terrain</title>
       <link>https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds/</link>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
       <description>Join the painting revolution with the outstanding new range – available to pre-order next week.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sundaypreview-oct04-2-share-ophhjbkrwf.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Dawn of War IV – Blood Ravens and Dark Angels team up in new trailer</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Watch the new faction trailer now.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/dow_marinestrailer-sep30-2-share-omay84znpl.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
