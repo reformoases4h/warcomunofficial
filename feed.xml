@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:55:26 +0000</lastBuildDate>
+    <item>
+      <title>New Battleforce boxes revealed for Warhammer 40,000</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/17yaxs02/new-battleforce-boxes-revealed-for-warhammer-40000/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/17yaxs02/new-battleforce-boxes-revealed-for-warhammer-40000/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Easily start a new army or grow an existing one.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/40k_battleforces-oct19-2-share-8adxus3tkd.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Designers’ notes: The River of Bones lore</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The Warhammer: The Old World team tells us about the background for the latest supplement.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_roblore-oct19-2-share-pdqpkjlllc.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Sunday Preview – Tomb Kings rise again</title>
       <link>https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again/</link>
@@ -149,22 +165,6 @@
       <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
       <description>Watch it now, for free</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/02-10_sm_anim_2-share-akngqpva0o.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Your questions answered from The Big Autumn Preview</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/ezaznq06/your-questions-answered-from-the-big-autumn-preview/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ezaznq06/your-questions-answered-from-the-big-autumn-preview/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>You asked about paint, Adeptus Custodes, Tomb Kings of Khemri, and more.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/bigautumnq&amp;a-oct02-2-share-syn7fyibno.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Sunday Preview – Warhammer Tone Pro</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/13drg5hr/sunday-preview-warhammer-tone-pro/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/13drg5hr/sunday-preview-warhammer-tone-pro/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:03:45 +0000</pubDate>
-      <description>Join the painting revolution with the outstanding new range – available to pre-order next week.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/sundaypreview-oct04-2-share-ophhjbkrwf.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
