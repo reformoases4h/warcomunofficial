@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:43:06 +0000</lastBuildDate>
+    <item>
+      <title>The next Scouring book revealed: Wrath of Terra - Warhammer Community</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The epic series continues as the fighting heads to Mars.</description>
+      <enclosure url="https://assets.warhammer-community.com/1-feature-wficais8gl.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Warhammer Tone Pro: One paint, many techniques</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Learn how flexible the new range of paints can be.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures2-oct21-2-share-7w6ppratop.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Discover the factions, missions, maps, and more for the video game.</description>
+      <enclosure url="https://assets.warhammer-community.com/dow_gametrailer-oct21-1-feature-dscknvvdp5.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Warhammer Tone Pro: The 1-5 system</title>
       <link>https://www.warhammer-community.com/en-gb/articles/fhe1sis9/warhammer-tone-pro-the-1-5-system/</link>
@@ -141,30 +165,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <description>Learn how the duardin swear Ancestral Vows to receive divine power in their new battletome.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules2-oct13-2-share-coemwotwuw.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Khazalite Holds battle traits – Hand out some Grudges</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/sgbgmz25/khazalite-holds-battle-traits-hand-out-some-grudges/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/sgbgmz25/khazalite-holds-battle-traits-hand-out-some-grudges/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New army rules from the upcoming Warhammer Age of Sigmar battletome.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/aos_khazrules-oct12-2-share-d1kciwnrcr.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Peaks and Deeps – Take a Tour of a Khazalite Hold</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dceko7zl/peaks-and-deeps-take-a-tour-of-a-khazalite-hold/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Explore the subterranean dwellings of Warhammer Age of Sigmar’s newest faction.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_khazlore-oct08-2-share-aih4ypplpr.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Liveries of the Legio Custodes during the Horus Heresy</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/e5pkuure/liveries-of-the-legio-custodes-during-the-horus-heresy/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/e5pkuure/liveries-of-the-legio-custodes-during-the-horus-heresy/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Discover the lore behind the different colours of the Custodian Guard.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/thh_custodesheraldry-oct09-2-share-klzivsrctu.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
