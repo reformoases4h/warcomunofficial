@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 24 Oct 2026 16:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:06:57 +0000</lastBuildDate>
+    <item>
+      <title>Saturday Pre-orders – Tomb Kings rise, Da Red Gobbo rides</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides/</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Check out today’s pre-orders for Warhammer: The Old World, Warhammer 40,000, and more.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/preorders-oct24-2-share-3gy1htaexw.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Arkanaut Episode 2 – Join the crew</title>
       <link>https://www.warhammer-community.com/en-gb/articles/l9ctt2nw/arkanaut-episode-2-join-the-crew/</link>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <description>See what you can pre-order from today.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/preorders-oct17-2-share-qva7gpzahw.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Arkanaut Episode 1 – Meet the Therodoson</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/o2tro9ry/arkanaut-episode-1-meet-the-therodoson/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/o2tro9ry/arkanaut-episode-1-meet-the-therodoson/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Watch the new Warhammer TV animation now.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/arkanaut_ep1-oct16-2-share-dfcuodxgiv.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
