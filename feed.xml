@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:55:28 +0000</lastBuildDate>
+    <item>
+      <title>Golden Demon 2026 winners revealed at SPIEL Essen - Warhammer Community</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>All of the miniatures that took home a trophy at Warhammer’s ultimate painting competition.</description>
+      <enclosure url="https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Sunday Preview – Orlocks rule the roads of Necromunda</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>See what’s coming up next week for Necromunda, Warhammer 40,000, and more.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-2-share-jktxohgn1f.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Saturday Pre-orders – Tomb Kings rise, Da Red Gobbo rides</title>
       <link>https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides/</link>
@@ -149,22 +165,6 @@
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>The Warhammer: The Old World team tells us about the background for the latest supplement.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_roblore-oct19-2-share-pdqpkjlllc.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Sunday Preview – Tomb Kings rise again</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/q39hsvbj/sunday-preview-tomb-kings-rise-again/</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <description>See what’s coming up for pre-order next week.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/sundaypreview-oct18-2-share-rb2httfqez.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Saturday Pre-orders – Get your ready-painted terrain</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/lqckkpsq/saturday-pre-orders-ready-painted-terrain-and-khazalite-holds/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <description>See what you can pre-order from today.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/preorders-oct17-2-share-qva7gpzahw.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
