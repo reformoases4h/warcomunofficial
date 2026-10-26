@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:43:34 +0000</lastBuildDate>
+    <item>
+      <title>New battleforce boxes revealed for Warhammer Age of Sigmar</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/jrdutvgn/new-battleforce-boxes-revealed-for-warhammer-age-of-sigmar/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jrdutvgn/new-battleforce-boxes-revealed-for-warhammer-age-of-sigmar/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Start a new collection or expand your existing army.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_battleforces-oct26-2-share-gmhc9rtnjm.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>New rules for House Orlock gangs</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/di0mzbww/new-rules-for-house-orlock-gangs/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/di0mzbww/new-rules-for-house-orlock-gangs/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Rule the roads of Necromunda with the House of Iron.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlockrules-oct26-2-share-7oziuoqby3.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Warhammer Day is Coming!</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/lhfdf28v/warhammer-day-is-coming/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/lhfdf28v/warhammer-day-is-coming/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Get ready for the annual celebration of all things Warhammer.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_storeoffer-oct26-2-share-n51rzh47hz.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Golden Demon 2026 winners revealed at SPIEL Essen - Warhammer Community</title>
       <link>https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen/</link>
@@ -141,30 +165,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description>What could it be?</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/rumourengine-oct20-2-share-tx3kut4crp.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>On Warhammer TV this week – Devastation and drybrushing</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Enjoy lore, painting challenges, and episode two of Arkanaut.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-2-share-nqkocmwgay.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>New Battleforce boxes revealed for Warhammer 40,000</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/17yaxs02/new-battleforce-boxes-revealed-for-warhammer-40000/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/17yaxs02/new-battleforce-boxes-revealed-for-warhammer-40000/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Easily start a new army or grow an existing one.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/40k_battleforces-oct19-2-share-8adxus3tkd.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Designers’ notes: The River of Bones lore</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/h4mpf23j/designers-notes-the-river-of-bones-lore/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Warhammer: The Old World team tells us about the background for the latest supplement.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_roblore-oct19-2-share-pdqpkjlllc.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
