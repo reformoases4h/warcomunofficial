@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:56:02 +0000</lastBuildDate>
+    <item>
+      <title>Sequel to The Lords of Silence revealed</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/xqwipozh/sequel-to-the-lords-of-silence-revealed/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xqwipozh/sequel-to-the-lords-of-silence-revealed/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A new Warhammer 40,000 Death Guard novel is on the way from Black Library.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/2-share-afvcd0kfbc.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Warhammer Age of Sigmar: October Update</title>
       <link>https://www.warhammer-community.com/en-gb/articles/iix3g22a/warhammer-age-of-sigmar-october-update/</link>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Gaming mat with any purchase in your local Warhammer store over £95 on Warhammer Day weekend</description>
       <enclosure url="https://assets.warhammer-community.com/2-share-oldxylwlzr.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Paint Warhammer App – Your new painting companion</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/2kvipmuo/paint-warhammer-app-your-new-painting-companion/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2kvipmuo/paint-warhammer-app-your-new-painting-companion/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Warhammer Colour App has changed – discover the new features.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/paintapp-oct21-2-share-ypiocfxxr6.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
