@@ -48368,5 +48368,29 @@
     "description": "What could it be?",
     "image_url": "https://assets.warhammer-community.com/rumourengine-oct27-2-share-yd1a81vyft.jpg",
     "published_date": "2026-10-27T00:00:00+00:00"
+  },
+  "https://www.warhammer-community.com/en-gb/articles/iix3g22a/warhammer-age-of-sigmar-october-update/": {
+    "first_seen": "2026-10-28T14:35:32.521552+00:00",
+    "lastmod": null,
+    "title": "Warhammer Age of Sigmar: October Update",
+    "description": "Rules changes for Khazalite Holds, Sons of Behemat, and more.",
+    "image_url": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg",
+    "published_date": "2026-10-28T00:00:00+00:00"
+  },
+  "https://www.warhammer-community.com/en-gb/articles/k04goqrk/kill-team-october-update/": {
+    "first_seen": "2026-10-28T14:35:32.521552+00:00",
+    "lastmod": null,
+    "title": "Kill Team: October Update",
+    "description": "Rules updates for Tomb World cover, Exodite Dragon Masters, and more.",
+    "image_url": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/kt_update-oct28-2-share-vwesdekf1l.jpg",
+    "published_date": "2026-10-28T00:00:00+00:00"
+  },
+  "https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords/": {
+    "first_seen": "2026-10-28T14:35:32.521552+00:00",
+    "lastmod": null,
+    "title": "On Warhammer+ this week \u2013 Storm Dragons and Slayer Swords",
+    "description": "A look at the upcoming action this week on Warhammer TV.",
+    "image_url": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whplus-oct28-2-share-fbcaag9wzh.jpg",
+    "published_date": "2026-10-28T00:00:00+00:00"
   }
 }

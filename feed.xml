@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:35:33 +0000</lastBuildDate>
+    <item>
+      <title>Warhammer Age of Sigmar: October Update</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/iix3g22a/warhammer-age-of-sigmar-october-update/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/iix3g22a/warhammer-age-of-sigmar-october-update/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Rules changes for Khazalite Holds, Sons of Behemat, and more.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kill Team: October Update</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/k04goqrk/kill-team-october-update/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/k04goqrk/kill-team-october-update/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Rules updates for Tomb World cover, Exodite Dragon Masters, and more.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/kt_update-oct28-2-share-vwesdekf1l.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>On Warhammer+ this week – Storm Dragons and Slayer Swords</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A look at the upcoming action this week on Warhammer TV.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whplus-oct28-2-share-fbcaag9wzh.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Maxime Penaud talks about winning the Slayer Sword</title>
       <link>https://www.warhammer-community.com/en-gb/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword/</link>
@@ -141,30 +165,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>The Warhammer Colour App has changed – discover the new features.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/paintapp-oct21-2-share-ypiocfxxr6.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Tzeentch Daemons return via Made to Order</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Classic miniatures are coming back – just as planned.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tzemto-oct22-2-share-jll5vwxssg.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer Tone Pro: Superb coverage and vibrant colours</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Learn how even yellow and white are a breeze with the new paints.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures3-oct22-2-share-g1ylepkxxw.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>The next Scouring book revealed: Wrath of Terra</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/n1s11hao/the-next-scouring-book-revealed-wrath-of-terra/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The epic series continues as the fighting heads to Mars.</description>
-      <enclosure url="https://assets.warhammer-community.com/1-feature-wficais8gl.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
