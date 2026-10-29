@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:07:45 +0000</lastBuildDate>
+    <item>
+      <title>Big Warhammer Day news for Officially Licensed video games and merch</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Reveals, special offers, and more.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-2-share-lw5oyqre6k.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Designers’ notes: Crafting the new House Orlock miniatures</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/59guawoo/designers-notes-crafting-the-new-house-orlock-miniatures/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/59guawoo/designers-notes-crafting-the-new-house-orlock-miniatures/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The Necromunda team talks about creating the new models.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocknotes-oct29-2-share-3awdolcsgj.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Sequel to The Lords of Silence revealed</title>
       <link>https://www.warhammer-community.com/en-gb/articles/xqwipozh/sequel-to-the-lords-of-silence-revealed/</link>
@@ -149,22 +165,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>The Warhammer: The Old World team tells us about the rules from the latest supplement.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_robdesignrules-oct23-2-share-tvdegi2rob.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer art through the years: Tomb Kings of Khemri</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/vlfpgjed/warhammer-art-through-the-years-tomb-kings-of-khemri/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/vlfpgjed/warhammer-art-through-the-years-tomb-kings-of-khemri/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>We’ve scoured the sands for classic Warhammer: The Old World artwork.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkart-oct23-2-share-tneynswbn5.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Claim your commemorative Space Marine 2 desk mat from your local Warhammer Store</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/nxnxzvv4/claim-your-commemorative-space-marine-2-desk-mat-from-your-local-warhammer-store/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/nxnxzvv4/claim-your-commemorative-space-marine-2-desk-mat-from-your-local-warhammer-store/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Gaming mat with any purchase in your local Warhammer store over £95 on Warhammer Day weekend</description>
-      <enclosure url="https://assets.warhammer-community.com/2-share-oldxylwlzr.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
