@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:05:24 +0000</lastBuildDate>
+    <item>
+      <title>The Warhammer 40,000 Updates Update</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/cumo9vbg/the-warhammer-40000-updates-update/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/cumo9vbg/the-warhammer-40000-updates-update/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A Warhammer 40,000 rules log is incoming.</description>
+      <enclosure url="https://assets.warhammer-community.com/40k_update-oct29-1-feature-t0vxku6cmd.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Big Warhammer Day news for Officially Licensed video games and merch</title>
       <link>https://www.warhammer-community.com/en-gb/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch/</link>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>News on the Necromunda RPG and the year ahead</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/2-share-9u1tpkcut8.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Designers’ notes: The River of Bones rules</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/xuhk2izd/designers-notes-the-river-of-bones-rules/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xuhk2izd/designers-notes-the-river-of-bones-rules/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Warhammer: The Old World team tells us about the rules from the latest supplement.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_robdesignrules-oct23-2-share-tvdegi2rob.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
