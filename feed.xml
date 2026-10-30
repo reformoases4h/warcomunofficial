@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:10:00 +0000</lastBuildDate>
+    <item>
+      <title>Watch the full series of Arkanaut on Warhammer TV now</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>All three episodes of the Warhammer Age of Sigmar animation are available to stream.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/arkanaut_ep3-oct30-2-share-nqsreiog0d.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Celebrate Warhammer Day with some suitably scary miniatures</title>
       <link>https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures/</link>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>See what’s coming up next week for Necromunda, Warhammer 40,000, and more.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-2-share-jktxohgn1f.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Saturday Pre-orders – Tomb Kings rise, Da Red Gobbo rides</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2awa094v/saturday-pre-orders-tomb-kings-rise-da-red-gobbo-rides/</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Check out today’s pre-orders for Warhammer: The Old World, Warhammer 40,000, and more.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/preorders-oct24-2-share-3gy1htaexw.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
