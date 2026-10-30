@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:18:14 +0000</lastBuildDate>
+    <item>
+      <title>Celebrate Warhammer Day with some suitably scary miniatures</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Halloween and Warhammer are brought together in a list of some of our favourite terrifying models.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday-halloween-oct28-2-share-k5tkf8fj6k.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>How to paint the Warhammer Day miniature</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/box0xn16/how-to-paint-the-warhammer-day-miniature/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/box0xn16/how-to-paint-the-warhammer-day-miniature/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Get some top tips on getting Oath Fulfilled ready for battle.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/tonepro_oathfulfilled-oct30-2-share-yaxyz8apsa.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>The Warhammer 40,000 Updates Update</title>
       <link>https://www.warhammer-community.com/en-gb/articles/cumo9vbg/the-warhammer-40000-updates-update/</link>
@@ -149,22 +165,6 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Check out today’s pre-orders for Warhammer: The Old World, Warhammer 40,000, and more.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/preorders-oct24-2-share-3gy1htaexw.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Arkanaut Episode 2 – Join the crew</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/l9ctt2nw/arkanaut-episode-2-join-the-crew/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/l9ctt2nw/arkanaut-episode-2-join-the-crew/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Watch the second episode of the Warhammer TV animation now.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/arkanaut_ep2-oct23-2-share-wfrgohacxs.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>New for Necromunda in 2027</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/ntkfvqdt/new-for-necromunda-in-2027/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ntkfvqdt/new-for-necromunda-in-2027/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>News on the Necromunda RPG and the year ahead</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/2-share-9u1tpkcut8.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
