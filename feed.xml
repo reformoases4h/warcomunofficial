@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 31 Oct 2026 07:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:56:25 +0000</lastBuildDate>
+    <item>
+      <title>It’s Warhammer Day! Join in the celebrations</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Celebrate another year of Warhammer with some awesome activities.</description>
+      <enclosure url="https://assets.warhammer-community.com/whday_recap-oct31-2-share-c2ecvjaiom.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Watch the full series of Arkanaut on Warhammer TV now</title>
       <link>https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now/</link>
@@ -157,14 +165,6 @@
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>All of the miniatures that took home a trophy at Warhammer’s ultimate painting competition.</description>
       <enclosure url="https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Sunday Preview – Orlocks rule the roads of Necromunda</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>See what’s coming up next week for Necromunda, Warhammer 40,000, and more.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-2-share-jktxohgn1f.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
