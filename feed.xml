@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Saturday pre-orders – Join the House of Iron</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/tbfqksyc/saturday-pre-orders-join-the-house-of-iron/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/tbfqksyc/saturday-pre-orders-join-the-house-of-iron/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Rule the underhive with new rules and miniatures, and grab some classic Tzeentch miniatures.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/preorders-oct31-2-share-pmbkl8bty0.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>It’s Warhammer Day! Join in the celebrations</title>
       <link>https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations/</link>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>Get ready for the annual celebration of all things Warhammer.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_storeoffer-oct26-2-share-n51rzh47hz.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Golden Demon 2026 winners revealed at SPIEL Essen - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>All of the miniatures that took home a trophy at Warhammer’s ultimate painting competition.</description>
-      <enclosure url="https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
