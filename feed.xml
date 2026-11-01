@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:39:05 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Preview – The Khazalite Holds prepare to march out</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>See what’s available for pre-order next week, including a wealth of Warhammer Age of Sigmar miniatures.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/sundaypreview-nov01-2-share-naig3trjvn.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Saturday pre-orders – Join the House of Iron</title>
       <link>https://www.warhammer-community.com/en-gb/articles/tbfqksyc/saturday-pre-orders-join-the-house-of-iron/</link>
@@ -157,14 +165,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>Rule the roads of Necromunda with the House of Iron.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlockrules-oct26-2-share-7oziuoqby3.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer Day is Coming!</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/lhfdf28v/warhammer-day-is-coming/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/lhfdf28v/warhammer-day-is-coming/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Get ready for the annual celebration of all things Warhammer.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_storeoffer-oct26-2-share-n51rzh47hz.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
