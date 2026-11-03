@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:40:14 +0000</lastBuildDate>
+    <item>
+      <title>Claim your Space Marine II desk mat - find out how - Warhammer Community</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/jdrdz7od/claim-your-space-marine-ii-desk-mat-find-out-how/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jdrdz7od/claim-your-space-marine-ii-desk-mat-find-out-how/</guid>
+      <pubDate>Tue, 03 Nov 2026 16:40:09 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://assets.warhammer-community.com/feature_generic2024-(1).jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Golden Demon 2026 – SPIEL Essen Finalists, Part One</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>See loads of awesome miniatures that earned Finalist pins.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-2-share-hffil5pmu3.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Rumour Engine – 3rd of November</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>What could it be?</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/rumourengine-nov03-2-share-lcsuyqmd5e.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>New Horus Heresy Battle Group boxes - Warhammer Community</title>
       <link>https://www.warhammer-community.com/en-gb/articles/nuc8rzsm/new-horus-heresy-battle-group-boxes/</link>
@@ -141,30 +165,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <description>A closer look at the stunning miniature and a chat with the winning painter.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/slayerswordwinner-oct27-2-share-zwoyclhs2v.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer Academy October content drop</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/hkpuhvh0/warhammer-academy-october-content-drop/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/hkpuhvh0/warhammer-academy-october-content-drop/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>See what new videos will be appearing on your playlists.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whacademyupdate-oct27-2-share-imxm7lxq4f.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Orlock Tactica – Advice from the Studio</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/fbs7cxxp/orlock-tactica-advice-from-the-studio/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/fbs7cxxp/orlock-tactica-advice-from-the-studio/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Learn how to get the most out of the House of Iron.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/nec_orlocktac-oct27-2-share-vjuu27js3j.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Warhammer Day – Chaos Champions through the ages</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/rfpmoxiw/warhammer-day-chaos-champions-through-the-ages/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/rfpmoxiw/warhammer-day-chaos-champions-through-the-ages/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Take a look back at the heroes of the Dark Gods over the years.</description>
-      <enclosure url="https://assets.warhammer-community.com/aos_chaoschampsretro-oct27-1-feature-a0rkl1ukq9.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
