@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:16:34 +0000</lastBuildDate>
+    <item>
+      <title>Black Library: New Skaven novel revealed - Warhammer Community</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New Skaven fiction skitterleaps into the Mortal Realms.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/bl_reveal-nov04-1-feature-940jcwons2.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>An amazing prize draw, free subscriber loot, and new Warhammer TV episodes</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/dntsesly/an-amazing-prize-draw-free-subscriber-loot-and-new-warhammer-tv-episodes/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dntsesly/an-amazing-prize-draw-free-subscriber-loot-and-new-warhammer-tv-episodes/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>See how you can win LOADS of Officially Licensed Warhammer merch.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/whplus-nov04-2-share-ngng18kcak.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Claim your Space Marine II desk mat - find out how - Warhammer Community</title>
       <link>https://www.warhammer-community.com/en-gb/articles/jdrdz7od/claim-your-space-marine-ii-desk-mat-find-out-how/</link>
@@ -149,22 +165,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>Rules updates for Tomb World cover, Exodite Dragon Masters, and more.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/kt_update-oct28-2-share-vwesdekf1l.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>On Warhammer+ this week – Storm Dragons and Slayer Swords</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jbyusudi/on-warhammer-this-week-storm-dragons-and-slayer-swords/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>A look at the upcoming action this week on Warhammer TV.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whplus-oct28-2-share-fbcaag9wzh.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Maxime Penaud talks about winning the Slayer Sword</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>A closer look at the stunning miniature and a chat with the winning painter.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/slayerswordwinner-oct27-2-share-zwoyclhs2v.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
