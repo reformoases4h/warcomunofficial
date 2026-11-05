@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:35:01 +0000</lastBuildDate>
+    <item>
+      <title>Middle-earth™ miniatures return via Made to Order</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/lwsoaefx/middle-earthtm-miniatures-return-via-made-to-order/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/lwsoaefx/middle-earthtm-miniatures-return-via-made-to-order/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Build an army worthy of Mordor as The Black Gate opens and classic miniatures return.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/mesbg_mto-nov05-2-share-njfr3emua9.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Black Library: New Skaven novel revealed - Warhammer Community</title>
       <link>https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed/</link>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>Rules changes for Khazalite Holds, Sons of Behemat, and more.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Kill Team: October Update</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/k04goqrk/kill-team-october-update/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/k04goqrk/kill-team-october-update/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Rules updates for Tomb World cover, Exodite Dragon Masters, and more.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/kt_update-oct28-2-share-vwesdekf1l.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
