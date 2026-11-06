@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:49:01 +0000</lastBuildDate>
+    <item>
+      <title>The Butcher's Nails and Astartes II release dates - Warhammer Community</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Animated carnage this winter on Warhammer TV.</description>
+      <enclosure url="https://assets.warhammer-community.com/1-feature-dcf0qpfgjk.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Classic Wood Elves return via Made to Order</title>
       <link>https://www.warhammer-community.com/en-gb/articles/mkwyzwpt/classic-wood-elves-return-via-made-to-order/</link>
@@ -157,14 +165,6 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>All three episodes of the Warhammer Age of Sigmar animation are available to stream.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/arkanaut_ep3-oct30-2-share-nqsreiog0d.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Celebrate Warhammer Day with some suitably scary miniatures</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/zbi88sln/celebrate-warhammer-day-with-some-suitably-scary-miniatures/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Halloween and Warhammer are brought together in a list of some of our favourite terrifying models.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday-halloween-oct28-2-share-k5tkf8fj6k.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
