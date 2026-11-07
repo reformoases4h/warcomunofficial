@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:07:02 +0000</lastBuildDate>
+    <item>
+      <title>Saturday Pre-orders – Reclaim the Khazalid Empire</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/ulxystmh/saturday-pre-orders-reclaim-the-khazalid-empire/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ulxystmh/saturday-pre-orders-reclaim-the-khazalid-empire/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Grab new Khazalite Holds miniatures, and the next book in The Scouring series.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/preorders-nov07-2-share-neh09opfgs.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>The Butcher's Nails and Astartes II release dates - Warhammer Community</title>
       <link>https://www.warhammer-community.com/en-gb/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates/</link>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <description>Celebrate another year of Warhammer with some awesome activities.</description>
       <enclosure url="https://assets.warhammer-community.com/whday_recap-oct31-2-share-c2ecvjaiom.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Watch the full series of Arkanaut on Warhammer TV now</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/makgoojc/watch-the-full-series-of-arkanaut-on-warhammer-tv-now/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>All three episodes of the Warhammer Age of Sigmar animation are available to stream.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/arkanaut_ep3-oct30-2-share-nqsreiog0d.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
