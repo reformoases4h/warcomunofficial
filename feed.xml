@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:49:28 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Preview – New Battleforce Boxes Muster for Action</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Incredible new boxed sets for Warhammer 40,000, Warhammer Age of Sigmar, and Warhammer: The Horus Heresy.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/sundaypreview-nov08-2-share-pzooonrqws.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Saturday Pre-orders – Reclaim the Khazalid Empire</title>
       <link>https://www.warhammer-community.com/en-gb/articles/ulxystmh/saturday-pre-orders-reclaim-the-khazalid-empire/</link>
@@ -157,14 +165,6 @@
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <description>Rule the underhive with new rules and miniatures, and grab some classic Tzeentch miniatures.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/preorders-oct31-2-share-pmbkl8bty0.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>It’s Warhammer Day! Join in the celebrations</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/bjziyrsi/its-warhammer-day-join-in-the-celebrations/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Celebrate another year of Warhammer with some awesome activities.</description>
-      <enclosure url="https://assets.warhammer-community.com/whday_recap-oct31-2-share-c2ecvjaiom.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
