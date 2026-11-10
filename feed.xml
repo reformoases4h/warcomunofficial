@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 Nov 2026 07:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:51:59 +0000</lastBuildDate>
+    <item>
+      <title>Golden Demon 2026 – SPIEL Essen Finalists, Part Two</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>See more Finalist pin winners.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists2-nov10-2-share-guxyrzhppn.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Khazalite Holds make their Battle Report debut</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Plus, enjoy the final cut of Blacktalon, catch up with Robert Rath, and more on Warhammer TV.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/whplus-nov10-2-share-qcrxs6lnl2.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Rumour Engine – 10th of November</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/siudolan/the-rumour-engine-10th-of-november/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>What could it be?</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov10-2-share-sklxm5p8w3.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>World Championships of Warhammer 2026: Rules Update Documents - Warhammer Community</title>
       <link>https://www.warhammer-community.com/en-gb/articles/2ykrr5eg/world-championships-of-warhammer-2026-rules-update-documents/</link>
@@ -141,30 +165,6 @@
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <description>What could it be?</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/rumourengine-nov03-2-share-lcsuyqmd5e.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>New Horus Heresy Battle Group boxes - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/nuc8rzsm/new-horus-heresy-battle-group-boxes/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/nuc8rzsm/new-horus-heresy-battle-group-boxes/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Forge your Legiones Astartes army with boxed sets for Warhammer: The Horus Heresy.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/thh_bgsets-nov02-2-share-4sutknhc6u.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Inside White Dwarf 530 – The forces of the Ten Thousand unleashed</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/kkloakhu/inside-white-dwarf-530-the-forces-of-the-ten-thousand-unleashed/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/kkloakhu/inside-white-dwarf-530-the-forces-of-the-ten-thousand-unleashed/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Get your first look inside November’s issue of the official Warhammer magazine.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/wd530-nov02-2-share-sneyirjij8.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Festive coins and patches in-store this month</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/qnmxrd7r/festive-coins-and-patches-in-store-this-month/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/qnmxrd7r/festive-coins-and-patches-in-store-this-month/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Earn special Warhammer patches by completing activities this holiday season.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/retail_nov02-2-share-pwwzxhskvd.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
