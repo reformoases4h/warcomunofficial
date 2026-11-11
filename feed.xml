@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>New Core Mission Pack for Warhammer: The Horus Heresy</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy/</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Discover fresh ways to play in the Age of Darkness.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-2-share-igagf7ganf.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Golden Demon 2026 – SPIEL Essen Finalists, Part Two</title>
       <link>https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two/</link>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <description>See loads of awesome miniatures that earned Finalist pins.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-2-share-hffil5pmu3.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>The Rumour Engine – 3rd of November</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/twdkmrex/the-rumour-engine-3rd-of-november/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>What could it be?</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/rumourengine-nov03-2-share-lcsuyqmd5e.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
