@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Seminars, signings, and merch – Black Library Live returns</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Coming to Warhammer World this December.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/bl_live-nov12-2-share-x1xd9coqds.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Adepta Sororitas make their presence known in Warhammer 40,000: Darktide</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/xn0ljqav/the-adepta-sororitas-make-their-presence-known-in-warhammer-40000-darktide/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xn0ljqav/the-adepta-sororitas-make-their-presence-known-in-warhammer-40000-darktide/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Step into the boots of a Novitiate in an upcoming DLC.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/darktideupdate-nov12-2-share-fazfh7vglv.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>New Core Mission Pack for Warhammer: The Horus Heresy</title>
       <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy/</link>
@@ -149,22 +165,6 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <description>See how you can win LOADS of Officially Licensed Warhammer merch.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/whplus-nov04-2-share-ngng18kcak.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Claim your Space Marine II desk mat - find out how - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/jdrdz7od/claim-your-space-marine-ii-desk-mat-find-out-how/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/jdrdz7od/claim-your-space-marine-ii-desk-mat-find-out-how/</guid>
-      <pubDate>Tue, 03 Nov 2026 16:40:09 +0000</pubDate>
-      <description></description>
-      <enclosure url="https://assets.warhammer-community.com/feature_generic2024-(1).jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Golden Demon 2026 – SPIEL Essen Finalists, Part One</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>See loads of awesome miniatures that earned Finalist pins.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-2-share-hffil5pmu3.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
