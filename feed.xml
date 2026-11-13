@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Golden Demon 2026 – SPIEL Essen Finalists, Part Three</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Enjoy the last five categories of Finalist pin winners.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists3-nov13-2-share-iegqodmbkv.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Aly Morrison - Warhammer Community</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description></description>
+      <enclosure url="https://assets.warhammer-community.com/aly_morrison-upqusohodb.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Seminars, signings, and merch – Black Library Live returns</title>
       <link>https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns/</link>
@@ -149,22 +165,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>Build an army worthy of Mordor as The Black Gate opens and classic miniatures return.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/mesbg_mto-nov05-2-share-njfr3emua9.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Black Library: New Skaven novel revealed - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/08bcnmsi/black-library-new-skaven-novel-revealed/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New Skaven fiction skitterleaps into the Mortal Realms.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/bl_reveal-nov04-1-feature-940jcwons2.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>An amazing prize draw, free subscriber loot, and new Warhammer TV episodes</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/dntsesly/an-amazing-prize-draw-free-subscriber-loot-and-new-warhammer-tv-episodes/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dntsesly/an-amazing-prize-draw-free-subscriber-loot-and-new-warhammer-tv-episodes/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>See how you can win LOADS of Officially Licensed Warhammer merch.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/whplus-nov04-2-share-ngng18kcak.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
