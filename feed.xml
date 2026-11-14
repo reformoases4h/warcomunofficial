@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Saturday Pre-order – Grab your Battleforce boxes today</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/dyjkeu0w/saturday-pre-order-grab-your-battleforce-boxes-today/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dyjkeu0w/saturday-pre-order-grab-your-battleforce-boxes-today/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Save money with this year’s festive boxed sets.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/preorders-nov14-2-share-coudzqavmk.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Watch the complete Blacktalons saga in one epic supercut</title>
       <link>https://www.warhammer-community.com/en-gb/articles/m0fqfamv/watch-the-complete-blacktalons-saga-in-one-epic-supercut/</link>
@@ -157,14 +165,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>Duardin resilience is a hot commodity in the Mortal Realms.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazaliteregrenown-nov05-2-share-l9qf8mkfdv.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>This Weekend only – Visit Warhammer World for an incredible opportunity - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/rif4mlza/this-weekend-only-visit-warhammer-world-for-an-incredible-opportunity/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/rif4mlza/this-weekend-only-visit-warhammer-world-for-an-incredible-opportunity/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Beginning the celebrations of 30 years of Warhammer World with the opportunity to own ’Eavy Metal painted miniatures.</description>
-      <enclosure url="https://assets.warhammer-community.com/whw_30years-nov05-1-feature-28xn1zhrnm.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
