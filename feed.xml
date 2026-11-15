@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Preview – The legions of Khemri arise!</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise/</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Undead legions and Night Goblin Blood Bowl players emerge in next week’s pre-orders.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/sundaypreview-nov15-2-share-cqeh2bczh7.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Saturday Pre-order – Grab your Battleforce boxes today</title>
       <link>https://www.warhammer-community.com/en-gb/articles/dyjkeu0w/saturday-pre-order-grab-your-battleforce-boxes-today/</link>
@@ -157,14 +165,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>A hero returns and incoming Codex news!</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/1-feature-xs0jjlugpr.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Bring Khazalite might to armies of Order with Regiments of Renown</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/f3ip2eww/bring-khazalite-might-to-armies-of-order-with-regiments-of-renown/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/f3ip2eww/bring-khazalite-might-to-armies-of-order-with-regiments-of-renown/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Duardin resilience is a hot commodity in the Mortal Realms.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazaliteregrenown-nov05-2-share-l9qf8mkfdv.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
