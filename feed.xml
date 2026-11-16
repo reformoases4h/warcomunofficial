@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Forge your Path to Glory in the Grymmpeaks</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New rules revealed for narrative-driven action in the Mortal Realms.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/aos_grymmpeaks-nov16-2-share-sugqwdygmo.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Sunday Preview – The legions of Khemri arise!</title>
       <link>https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise/</link>
@@ -157,14 +165,6 @@
       <pubDate>Thu, 05 Nov 2026 20:51:19 +0000</pubDate>
       <description>Download the updates ahead of this year's event in Barcelona</description>
       <enclosure url="https://assets.warhammer-community.com/worldchamps2026_downloads-nov04-1-feature-2uf4cutfge.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Big news for Blood Angels</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/htrydh0a/big-news-for-blood-angels/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/htrydh0a/big-news-for-blood-angels/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>A hero returns and incoming Codex news!</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/1-feature-xs0jjlugpr.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
