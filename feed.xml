@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Destroyer curse hits Loremasters on Warhammer TV</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/qrcydcp4/the-destroyer-curse-hits-loremasters-on-warhammer-tv/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/qrcydcp4/the-destroyer-curse-hits-loremasters-on-warhammer-tv/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Take a look at the upcoming action this week on Warhammer TV.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/wh-_nov17-2-share-krawz37pvb.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Rumour Engine – 17th of November</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>What could it be?</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov17-2-share-hkwamclund.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Forge your Path to Glory in the Grymmpeaks</title>
       <link>https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks/</link>
@@ -149,22 +165,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>Branch out your Warhammer: The Old World collection with classic miniatures.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/tow_woodelvesmto-nov06-2-share-mbu5ihykad.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Meet the Khazalite Ancestor Gods</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/cy5ccm90/meet-the-khazalite-ancestor-gods/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/cy5ccm90/meet-the-khazalite-ancestor-gods/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Who exactly are the duardin swearing oaths to?</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazlore-nov06-2-share-yyvzjmpr7o.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>World Championships of Warhammer 2026: Rules Update Documents - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/2ykrr5eg/world-championships-of-warhammer-2026-erratas/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2ykrr5eg/world-championships-of-warhammer-2026-erratas/</guid>
-      <pubDate>Thu, 05 Nov 2026 20:51:19 +0000</pubDate>
-      <description>Download the updates ahead of this year's event in Barcelona</description>
-      <enclosure url="https://assets.warhammer-community.com/worldchamps2026_downloads-nov04-1-feature-2uf4cutfge.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
