@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Designers’ notes: The Doom of Lord Carrard rules</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/mlzflfuw/designers-notes-the-doom-of-lord-carrard-rules/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/mlzflfuw/designers-notes-the-doom-of-lord-carrard-rules/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Learn about the new options for the Kingdom of Bretonnia and Tomb Kings of Khemri.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolc-nov19-2-share-gvmcd9b3g0.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Designers’ notes: Night Goblin Blood Bowl team</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/cldbqvox/designers-notes-night-goblin-blood-bowl-team/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/cldbqvox/designers-notes-night-goblin-blood-bowl-team/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Tips, tactics, and training plans for coaches of the newest fantasy football squad.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/bb_nightgobnotes-nov19-2-share-hintishb2y.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Warhammer Age of Sigmar November update</title>
       <link>https://www.warhammer-community.com/en-gb/articles/juo785y8/warhammer-age-of-sigmar-november-update/</link>
@@ -149,22 +165,6 @@
       <pubDate>Mon, 09 Nov 2026 17:52:30 +0000</pubDate>
       <description>Download the updates ahead of this year's event in Barcelona</description>
       <enclosure url="https://assets.warhammer-community.com/worldchamps2026_downloads-nov04-1-feature-2uf4cutfge.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Explore the desert with a new Arcane Journal</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/pncgtigd/explore-the-desert-with-a-new-arcane-journal/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/pncgtigd/explore-the-desert-with-a-new-arcane-journal/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Plus, discover the latest Battle March host for Warhammer: The Old World</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/2-share-znfwamk9fd.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Sunday Preview – New Battleforce Boxes Muster for Action</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action/</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Incredible new boxed sets for Warhammer 40,000, Warhammer Age of Sigmar, and Warhammer: The Horus Heresy.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/sundaypreview-nov08-2-share-pzooonrqws.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
