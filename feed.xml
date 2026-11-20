@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>More Battle March armies from the Warhammer: The Old World team</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/nl6upkep/more-battle-march-armies-from-the-warhammer-the-old-world-team/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/nl6upkep/more-battle-march-armies-from-the-warhammer-the-old-world-team/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Get inspired by more forces for the smaller scale, fast-paced game mode.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_studiobattlemarch-nov20-2-share-ukuilqqsap.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Designers’ notes: The Doom of Lord Carrard rules</title>
       <link>https://www.warhammer-community.com/en-gb/articles/mlzflfuw/designers-notes-the-doom-of-lord-carrard-rules/</link>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>What could it be?</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov10-2-share-sklxm5p8w3.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>World Championships of Warhammer 2026: Rules Update Documents - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/2ykrr5eg/world-championships-of-warhammer-2026-rules-update-documents/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/2ykrr5eg/world-championships-of-warhammer-2026-rules-update-documents/</guid>
-      <pubDate>Mon, 09 Nov 2026 17:52:30 +0000</pubDate>
-      <description>Download the updates ahead of this year's event in Barcelona</description>
-      <enclosure url="https://assets.warhammer-community.com/worldchamps2026_downloads-nov04-1-feature-2uf4cutfge.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
