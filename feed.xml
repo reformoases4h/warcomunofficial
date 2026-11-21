@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Saturday Pre-orders – Undead invasions and goblins on the pitch</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New pre-orders for Tomb Kings of Khemri and Blood Bowl Night Goblins.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/preorders-nov21-2-share-qn08rhjhom.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Warhammer Underworlds: Latest rules updates</title>
       <link>https://www.warhammer-community.com/en-gb/articles/95exb4tm/warhammer-underworlds-latest-rules-updates/</link>
@@ -157,14 +165,6 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>See more Finalist pin winners.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists2-nov10-2-share-guxyrzhppn.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Khazalite Holds make their Battle Report debut</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Plus, enjoy the final cut of Blacktalon, catch up with Robert Rath, and more on Warhammer TV.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/whplus-nov10-2-share-qcrxs6lnl2.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
