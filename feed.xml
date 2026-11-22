@@ -5,7 +5,15 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sunday Preview – Seraphon strike from the heavens</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens/</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Seraphon fight their way tooth and claw into the Mortal Realms in next week’s pre-orders.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/sundaypreview-nov22-2-share-gogpfvlafw.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Saturday Pre-orders – Undead invasions and goblins on the pitch</title>
       <link>https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch/</link>
@@ -157,14 +165,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <description>Discover fresh ways to play in the Age of Darkness.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-2-share-igagf7ganf.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Golden Demon 2026 – SPIEL Essen Finalists, Part Two</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/yumvi9vd/golden-demon-2026-spiel-essen-finalists-part-two/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>See more Finalist pin winners.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists2-nov10-2-share-guxyrzhppn.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
