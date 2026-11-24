@@ -5,7 +5,23 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Butcher’s Nails shreds its way onto Warhammer TV</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/hyy6hzl3/the-butchers-nails-shreds-its-way-onto-warhammer-tv/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/hyy6hzl3/the-butchers-nails-shreds-its-way-onto-warhammer-tv/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Blood for the Blood God! Plus, authors, a quiz, and a bitter rivalry reignited on Battle Report.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/whplus-nov24-2-share-v1rdee67yd.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Rumour Engine – 24th of November</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/td7byi5c/the-rumour-engine-24th-of-november/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/td7byi5c/the-rumour-engine-24th-of-november/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>What could it be?</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/rumourengine-nov24-2-share-p7riimpjiw.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Bretonnians return at full tilt for Warhammer: The Old World</title>
       <link>https://www.warhammer-community.com/en-gb/articles/c89qfbhj/bretonnians-return-at-full-tilt-for-warhammer-the-old-world/</link>
@@ -149,22 +165,6 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <description>Enjoy over three hours of intense Warhammer animation.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/blacktalon_finalcut-nov13-2-share-f3rpxmzav7.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Golden Demon 2026 – SPIEL Essen Finalists, Part Three</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/p9esvwz0/golden-demon-2026-spiel-essen-finalists-part-three/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Enjoy the last five categories of Finalist pin winners.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/gd_finalists3-nov13-2-share-iegqodmbkv.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Aly Morrison - Warhammer Community</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/sgde8pp9/aly-morrison/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description></description>
-      <enclosure url="https://assets.warhammer-community.com/aly_morrison-upqusohodb.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
