@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Bretonnians return at full tilt for Warhammer: The Old World</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/c89qfbhj/bretonnians-return-at-full-tilt-for-warhammer-the-old-world/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/c89qfbhj/bretonnians-return-at-full-tilt-for-warhammer-the-old-world/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Ride out for the lady with the Army Reinforcement Set.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/2-share-rj4ukdf4ik.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>New Dawn of War IV trailer – and desk mat offer</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/p6yqw1br/new-dawn-of-war-iv-trailer-and-desk-mat-offer/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/p6yqw1br/new-dawn-of-war-iv-trailer-and-desk-mat-offer/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Get your Dawn of War IV desk mat from your local Warhammer store.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/dow_gametrailer-nov23-2-share-d4c8zhvfd2.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Enact the Great Plan with new Seraphon army rules</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/kdqixspm/enact-the-great-plan-with-new-seraphon-army-rules/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/kdqixspm/enact-the-great-plan-with-new-seraphon-army-rules/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Take a look at some of the new rules dropping with Battletome: Seraphon.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_seraarmyrules-nov23-2-share-gdwfy1fwwd.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Sunday Preview – Seraphon strike from the heavens</title>
       <link>https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens/</link>
@@ -141,30 +165,6 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <description></description>
       <enclosure url="https://assets.warhammer-community.com/aly_morrison-upqusohodb.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Seminars, signings, and merch – Black Library Live returns</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xqyjbbzs/seminars-signings-and-merch-black-library-live-returns/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Coming to Warhammer World this December.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/bl_live-nov12-2-share-x1xd9coqds.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>The Adepta Sororitas make their presence known in Warhammer 40,000: Darktide</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/xn0ljqav/the-adepta-sororitas-make-their-presence-known-in-warhammer-40000-darktide/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/xn0ljqav/the-adepta-sororitas-make-their-presence-known-in-warhammer-40000-darktide/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Step into the boots of a Novitiate in an upcoming DLC.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/darktideupdate-nov12-2-share-fazfh7vglv.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>New Core Mission Pack for Warhammer: The Horus Heresy</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/3tbigtcq/new-core-mission-pack-for-warhammer-the-horus-heresy/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Discover fresh ways to play in the Age of Darkness.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/thh_missionupdate-nov11-2-share-igagf7ganf.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
