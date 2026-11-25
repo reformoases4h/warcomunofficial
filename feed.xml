@@ -5,7 +5,31 @@
     <link>https://www.warhammer-community.com/en-gb/all-news-and-features/</link>
     <description>Unofficial RSS feed for Warhammer Community, built from the site's home page and sitemap since the official listing page requires JavaScript. Dates are the articles' own published dates where they could be read, otherwise the time this feed first noticed the article.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Read and listen to more for less with a Black Library app subscription</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/dx2suzdy/read-and-listen-to-more-for-less-with-a-black-library-app-subscription/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dx2suzdy/read-and-listen-to-more-for-less-with-a-black-library-app-subscription/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Unlock credits for Black Library stories with a new subscription offer.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/bl_appsub-nov18-2-share-faxtxej9sb.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>New Armies of Renown rules for Seraphon</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/ssge5t8k/new-armies-of-renown-rules-for-seraphon/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/ssge5t8k/new-armies-of-renown-rules-for-seraphon/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>It’s not all doom and gloom with Blessed Tetaxi – see the new Warhammer Age of Sigmar rules.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_serarenown-nov25-2-share-pqriiw5rzw.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Fight underground battles in the new Path to Glory expansion</title>
+      <link>https://www.warhammer-community.com/en-gb/articles/dfe6g9xx/fight-underground-battles-in-the-new-path-to-glory-expansion/</link>
+      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/dfe6g9xx/fight-underground-battles-in-the-new-path-to-glory-expansion/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Get ready for frantic subterranean action with the new rules in Path to Glory: The Grymmpeaks.</description>
+      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-23-11/aos_grymmrules-nov25-2-share-fjxl3bgiez.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>New Seraphon warscrolls put astral power into your hands</title>
       <link>https://www.warhammer-community.com/en-gb/articles/kwjy6nsn/new-seraphon-warscrolls-put-astral-power-into-your-hands/</link>
@@ -141,30 +165,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <description>Take a look at the upcoming action this week on Warhammer TV.</description>
       <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/wh-_nov17-2-share-krawz37pvb.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>The Rumour Engine – 17th of November</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/tbxphqdd/the-rumour-engine-17th-of-november/</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>What could it be?</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/rumourengine-nov17-2-share-hkwamclund.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Forge your Path to Glory in the Grymmpeaks</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/eaayzlxj/forge-your-path-to-glory-in-the-grymmpeaks/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New rules revealed for narrative-driven action in the Mortal Realms.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/aos_grymmpeaks-nov16-2-share-sugqwdygmo.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Sunday Preview – The legions of Khemri arise!</title>
-      <link>https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise/</link>
-      <guid isPermaLink="true">https://www.warhammer-community.com/en-gb/articles/6igqydjw/sunday-preview-the-legions-of-khemri-arise/</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Undead legions and Night Goblin Blood Bowl players emerge in next week’s pre-orders.</description>
-      <enclosure url="https://assets.warhammer-community.com/articles/0-2026/november/wc-09-11/sundaypreview-nov15-2-share-cqeh2bczh7.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
